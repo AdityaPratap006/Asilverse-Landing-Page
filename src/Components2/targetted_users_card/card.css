@@ -1,3 +1,7 @@
+.ComplexCard{
+	padding-left: 0.1rem;
+	padding-right: 1rem;
+}
 .circle-card{
 	width: 25.93rem;
 	height: 25.93rem;
@@ -59,8 +63,9 @@
 
 @media only screen and (max-width: 768px){
 	.circle-card{
-		transform: scale(0.27);
-		 
+		transform: scale(0.33);
+		margin-left: -5.9rem;
+		margin-right: 2rem;
 	}
 }
 
