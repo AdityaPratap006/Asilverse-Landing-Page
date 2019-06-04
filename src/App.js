@@ -95,7 +95,7 @@ class  App extends Component {
         <Container className='targetted-users-div'>
           <Row className='targetted-users-div-row'>
             <Col xs={12} md={6}  className="targetted-users-div-card">
-               
+              <ComplexCard/>
             </Col>
             <Col xs={12} md={6}>
             <div className="platforms-div">
@@ -165,7 +165,7 @@ class  App extends Component {
         <Impact/>
       </div>
       <div className="last-div">
-
+         
         <Container>
           <Row>
             <Col xs={12}>
