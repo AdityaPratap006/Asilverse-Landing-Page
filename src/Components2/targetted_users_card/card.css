@@ -1,0 +1,67 @@
+.circle-card{
+	width: 25.93rem;
+	height: 25.93rem;
+	border-radius: 50%;
+	background: linear-gradient(250deg,rgb(113,130,138,0.3),rgb(238,238,238));
+	z-index: 100;
+	padding-top: 8rem; 
+	padding-left: 4.5rem;
+	margin-left: 3.3rem;
+	display: block;
+
+}
+
+.square-card1{
+	width:24.4375rem;
+	height:18.4375rem;
+	background:#e0e0e0;
+	display: block;
+	border-radius: 10px;
+	z-index: 150; 
+	
+	 
+}
+
+.square-card2{
+	width:24.4375rem;
+	height:18.4375rem;
+	background:#fff;
+	color: #000;
+	display: block;
+	opacity: 1.0;
+	border-radius: 10px;
+	z-index: 200; 
+	bottom: 20rem;
+	left:1.5rem;
+	position: relative;
+	font-family: AirbnbCereal-light;
+	padding-top: 3.9rem;
+}
+
+.square-card2 h3{
+	font-weight: 500;
+	font-size: 3rem;
+}
+
+.square-card2 h5{
+	font-weight: 750;
+	font-size: 1.4rem;
+}
+
+.square-card2 p{
+	margin-top: 0.8rem;
+	font-size: 0.8rem;
+	opacity: 0.4;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+
+@media only screen and (max-width: 768px){
+	.circle-card{
+		transform: scale(0.6);
+		margin-left: -3.9rem;
+		margin-right: 2rem;
+	}
+}
+

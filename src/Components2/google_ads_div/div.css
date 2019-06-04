@@ -1,0 +1,52 @@
+.google-ads-div{
+	background-color: #fbfbfb;
+	height: 90vh;
+	
+}
+
+.goole-ads-heading{
+	margin-top: 9rem;
+	font-family: AirbnbCereal;
+	font-size: 1.8rem;
+}
+
+.google-ads-text{
+	margin-top: 1.2rem;
+	font-family: AirbnbCereal;
+	font-size: 0.89rem;
+	opacity: 0.5;
+
+}
+
+.google-ads-card-row{
+	margin-top: 3rem;
+}
+
+.google-ads-card h5{
+	font-family: AirbnbCereal;
+	font-size: 1.2rem;
+	color:#1d262c;
+	margin-top: 1.5rem;
+	text-align: left;
+}
+.google-ads-card p{
+	font-family: AirbnbCereal-light;
+	font-size: 1rem;
+	color:#8a8a8a;
+	margin-top: 1.8rem;
+	text-align: left;
+}
+
+.google-ads-card-img{
+	width: 5.3rem;
+	height: 5.3rem;
+	border-radius: 50%;
+	background-color: #fff;
+	padding: 1.27rem;
+	border: 1px solid #3371828A;
+}
+
+.google-ads-card-imgage{
+	width:2.4rem;
+	height: 2.4rem;
+}

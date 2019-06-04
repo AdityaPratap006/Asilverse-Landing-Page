@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>icons8-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Fliply" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Screen" transform="translate(-813.000000, -1658.000000)" fill="#0074E4" fill-rule="nonzero">
+            <g id="Group-29" transform="translate(172.000000, 1459.000000)">
+                <g id="Group-26" transform="translate(639.999962, 85.199995)">
+                    <g id="Group-15" transform="translate(1.000000, 113.199993)">
+                        <g id="Group-14">
+                            <g id="icons8-facebook" transform="translate(0.000000, 1.000000)">
+                                <path d="M10.8888889,0 L3.11111111,0 C1.393,0 0,1.393 0,3.11111111 L0,10.8888889 C0,12.607 1.393,14 3.11111111,14 L7.483,14 L7.483,8.58588889 L5.66066667,8.58588889 L5.66066667,6.46644444 L7.483,6.46644444 L7.483,4.907 C7.483,3.09944444 8.58822222,2.114 10.2013333,2.114 C10.745,2.11244444 11.2878889,2.14044444 11.8284444,2.19566667 L11.8284444,4.08566667 L10.7177778,4.08566667 C9.83888889,4.08566667 9.66777778,4.501 9.66777778,5.11388889 L9.66777778,6.46333333 L11.7677778,6.46333333 L11.4947778,8.58277778 L9.65533333,8.58277778 L9.65533333,14 L10.8888889,14 C12.607,14 14,12.607 14,10.8888889 L14,3.11111111 C14,1.393 12.607,0 10.8888889,0 Z" id="Path"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

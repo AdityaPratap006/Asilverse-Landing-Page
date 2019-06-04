@@ -1,0 +1,93 @@
+.tasks-performed-div{
+  height: 70vh;
+  background-color: #0074e4;
+  color:#fff;
+}
+
+.task-heading{
+	font-family: AirbnbCereal;
+	text-align: left;
+	margin-top: 2.7rem;
+	font-size: 2rem;
+}
+.task-text{
+	font-family: AirbnbCereal;
+	text-align: left;
+	margin-top: 1.8rem;
+	width: 38%;
+	opacity: 0.6;
+}
+
+.tasks-card{
+	background-color: #2289ec;
+	width:10rem;
+	height: 10rem;
+	border-radius: 10px;
+}
+
+.tasks-card-row{
+	margin-top: 4rem;
+}
+
+.task-card-img{
+	margin-top: 2.5rem;
+	margin-bottom: 1.2rem;
+	transform: scale(1.2);
+}
+
+.tasks-card h5{
+	font-family: AirbnbCereal;
+	font-size: 0.9rem;
+}
+
+#seo{
+	margin-top: 3rem;
+	margin-bottom: 1.5rem;
+}
+
+@media only screen and (max-width: 768px){
+
+	.tasks-performed-div{
+	  height: 110vh;
+	 }
+
+	.task-heading{
+		margin-top: 2.7rem;
+		font-size: 1.8rem;
+	}
+
+	.task-text{
+		text-align: left;
+		margin-top: 1rem;
+		width: 90%
+	}
+	.tasks-card-row{
+		padding-left: 1.2rem;
+	}
+
+	.tasks-card{
+		margin-top: 0.5rem;
+		margin-bottom: 0.5rem;
+		width:7.5rem;
+		height: 7.5rem;
+		
+	}
+
+	.task-card-img{
+		margin-top: 0.8rem;
+		margin-bottom: 0.75rem;
+		transform: scale(0.9);
+	}
+
+	.tasks-card h5{
+		font-family: AirbnbCereal;
+		font-size: 0.8rem;
+		max-width: 90%;
+		margin-left: 5%;
+	}
+
+	#seo{
+		margin-top: 1.5rem;
+		margin-bottom: 1rem;
+	}
+}

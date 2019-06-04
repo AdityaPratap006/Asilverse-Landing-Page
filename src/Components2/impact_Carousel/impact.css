@@ -1,0 +1,149 @@
+.impact-div{
+	margin-top: 4rem;
+	height: 38rem;
+	width: 80vw;
+	margin-left: 10vw;
+}
+
+.impact-carousel-div{
+	width: 80vw !important;
+	height: 36rem;
+	background:#fff;
+	padding-top: 4rem;
+}
+
+.impact-control-div{
+	width: 80vw;
+	height: 8rem;
+	 
+	margin-left: 10vw;
+	margin-bottom: 4rem;
+	background-color: #fff;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.impact-control{
+	display: flex;
+  	flex-direction: row;
+  	font-family: AirbnbCereal;
+  	cursor: pointer;
+}
+
+.impact-content{
+	text-align: left;
+	margin-top: 3rem;
+}
+
+.impact-content-title{
+	font-family: AirbnbCereal;
+	margin-bottom: 2rem;
+
+}
+
+.impact-content-text{
+	font-family: AirbnbCereal;
+	opacity: 0.6;
+	width: 80%;
+}
+
+@media only screen and ( max-width: 768px){
+	.impact-div{
+		
+		height: 45rem;
+
+	}
+
+	.impact-carousel-div{
+		height: 45rem;
+	}
+
+	.impact-control-div{
+		width: 80vw;
+		height: 10rem;
+		margin-top:3rem;
+		margin-left: 10vw;
+		margin-bottom: 1.8rem;
+
+		display: flex;
+		flex-direction: row;
+		justify-content: flex-start;
+		flex-wrap: wrap;
+	}
+
+	.impact-control{
+		width: 40vw;
+	}
+}
+
+.circle2-card{
+	width: 25.93rem;
+	height: 25.93rem;
+	border-radius: 50%;
+	background: linear-gradient(120deg,rgb(113,130,138,0.3),#fff);
+	z-index: 100;
+	padding-top: 7.41rem; 
+	padding-left: -5rem;
+	padding-right: 10rem;
+	margin-left:  5rem;
+	display: block;
+
+}
+
+.square2-card1{
+	width:24.4375rem;
+	height:18.4375rem;
+	background:#e0e0e0;
+	display: block;
+	border-radius: 10px;
+	z-index: 150; 
+	right: 2rem;
+	 position: relative;
+}
+
+
+.square2-card2{
+	width:24.4375rem;
+	height:18.4375rem;
+	background:#fff;
+	color: #000;
+	display: block;
+	opacity: 1.0;
+	border-radius: 10px;
+	z-index: 200; 
+	bottom: 20rem;
+	right:3.6rem;
+	position: relative;
+	font-family: AirbnbCereal-light;
+	padding-top: 3.9rem;
+}
+
+.square2-card2 h3{
+	font-weight: 500;
+	font-size: 3rem;
+}
+
+.square2-card2 h5{
+	font-weight: 750;
+	font-size: 1.4rem;
+}
+
+.square2-card2 p{
+	margin-top: 0.8rem;
+	font-size: 0.8rem;
+	opacity: 0.4;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+
+@media only screen and (max-width: 768px){
+	.circle2-card{
+		transform: scale(0.54);
+		margin-left: -3.9rem;
+		margin-right: 2rem;
+	}
+}
+

@@ -1,0 +1,34 @@
+.Carousel-content{
+	width: 27rem;
+	height: 15rem;
+	background-color: #eee;
+	padding:3rem 1rem 1rem 1rem;
+	
+}
+
+.Carousel-arrows{
+	width: 1.5rem;
+	height: 1.5rem;
+}
+
+.less-data-div{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+@media only screen and (max-width: 768px){
+	.less-data-div{
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+	}
+
+	.Carousel-content{
+		width: 18.5rem;
+		height: 15rem;
+		
+		
+	}
+}
+
