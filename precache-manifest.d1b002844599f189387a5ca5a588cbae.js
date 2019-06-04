@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f18e96281a1646f82449c76ac7f0c867",
+    "revision": "0b3aeb4494fb6f1c1b38caffd5a2ef18",
     "url": "/Asilverse-Landing-Page/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Asilverse-Landing-Page/static/css/2.7b19e11b.chunk.css"
   },
   {
-    "revision": "32ce8b437dd03dc2d7ab",
+    "revision": "e47780febc08cb208e65",
     "url": "/Asilverse-Landing-Page/static/css/main.25dbe4c3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Asilverse-Landing-Page/static/js/2.ed73a001.chunk.js"
   },
   {
-    "revision": "32ce8b437dd03dc2d7ab",
-    "url": "/Asilverse-Landing-Page/static/js/main.91b79edd.chunk.js"
+    "revision": "e47780febc08cb208e65",
+    "url": "/Asilverse-Landing-Page/static/js/main.8eb12eac.chunk.js"
   },
   {
     "revision": "e562c433f2401b80bef7",
