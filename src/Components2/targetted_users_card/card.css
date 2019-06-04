@@ -59,7 +59,7 @@
 
 @media only screen and (max-width: 768px){
 	.circle-card{
-		transform: scale(0.6);
+		transform: scale(0.35);
 		margin-left: -5.9rem;
 		margin-right: 2rem;
 	}
